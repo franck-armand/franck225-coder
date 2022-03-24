@@ -83,20 +83,15 @@ I love the entire process of empowering machines with human reasoning capabiliti
 <hr>
 
 
+### 🤝 Connect with me:
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="franck225-coder's Activity Graph" src="https://franck225-coder-activity-graph.herokuapp.com/graph/?username=franck225-coder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://www.linkedin.com/in/franck-kouassi-3b31157b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Franck Armand | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/franck__armand"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<br>
+- 💼 For any collaboaration or freelance work, you can reach me here => [email](mailto:armand21@hotmail.com)
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- For any suggestions concerning my README, you can pull a request. Moreover, if you find it useful go ahead and customize it, to suit your design. (P.S. You can also leave a star ahah it wouldn't hurt your code !!:grimacing: )
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-### 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<hr>
+⚡ Fun fact: Yay ! a different error message...Finally some progress !
 
