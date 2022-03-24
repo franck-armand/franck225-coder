@@ -64,18 +64,33 @@ I love the entire process of empowering machines with human reasoning capabiliti
 
 ## 📈 GitHub Stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+
   <br/>
+ <p align=center>
+ <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franck225-coder's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=franck225-coder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franck225-coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franck225-coder&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-<br>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="franck225-coder's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=franck225-coder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franck225-coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franck225-coder&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+  </a>
+  </div>
+  <br>
+  <div align=center>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franck225-coder&theme=react&border=61dafb&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+    </a>
+ </div>
+</p>
+ 
+<hr>
 
-### About me
+
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="franck225-coder's Activity Graph" src="https://franck225-coder-activity-graph.herokuapp.com/graph/?username=franck225-coder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+### 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
