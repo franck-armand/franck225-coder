@@ -62,8 +62,18 @@ I love the entire process of empowering machines with human reasoning capabiliti
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 
+## 📈 GitHub Stats
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franck225-coder's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=franck225-coder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franck225-coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franck225-coder&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
 <br>
-
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="franck225-coder's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=franck225-coder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ### About me
 - 🔭 I’m currently working on ...
