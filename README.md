@@ -21,6 +21,10 @@ I love the entire process of empowering machines with human reasoning capabiliti
 - A scientific research paper (publication)
 - Maintaining some of my old projects
 
+## 🌱 I'm currently learning
+- New AI & DL methods and models
+- Keep myself updated with data releted techniques and methods
+
 ## 💼 Technical Skills
 
 <p align="center">
@@ -38,8 +42,7 @@ I love the entire process of empowering machines with human reasoning capabiliti
   <code><img title="Scikitlearn" height="25" src="images/sckitlearn.png"></code>
   <code><img title="Scipy" height="25" src="images/scipy.png"></code>
   <code><img title="Powerbi" height="25" src="images/powerbi.png"></code>
-  <code><img title="Tableau" height="25" src="images/tabeau.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.png"></code>
+  <code><img title="Tableau" height="25" src="images/tableau.svg"></code>
   <code><img title="numpy" height="25" src="images/numpy.png"></code>
   <code><img title="Microsoft excel" height="25" src="images/microsoftexcel.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -61,9 +64,6 @@ I love the entire process of empowering machines with human reasoning capabiliti
 
 <br>
 
-## 🌱 I'm currently learning
-- New AI & DL methods and models
-- Keep myself updated with data releted techniques and methods
 
 ### About me
 - 🔭 I’m currently working on ...
