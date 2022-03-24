@@ -24,6 +24,7 @@ I love the entire process of empowering machines with human reasoning capabiliti
 ## 🌱 I'm currently learning
 - New AI & DL methods and models
 - Keep myself updated with data releted techniques and methods
+- Advance programming skills
 
 ## 💼 Technical Skills
 
