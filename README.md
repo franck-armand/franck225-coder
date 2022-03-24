@@ -35,7 +35,7 @@ I love the entire process of empowering machines with human reasoning capabiliti
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Figma" height="25" src="images/figma.svg"></code>
   <code><img title="Word Press" height="25" src="images/wordpress.png"></code>
-  <code><img title="Scikitlearn" height="25" src="images/scikitlearn.svg"></code>
+  <code><img title="Scikitlearn" height="25" src="images/scikitlearn.png"></code>
   <code><img title="Scipy" height="25" src="images/scipy.svg"></code>
   <code><img title="Powerbi" height="25" src="images/powerbi.svg"></code>
   <code><img title="tableau" height="25" src="images/tabeau.svg"></code>
