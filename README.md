@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" src="https://github.com/franck225-coder/franck225-coder/blob/main/intro_gif.gif" />
+  <img alt="GIF" src="https://github.com/franck225-coder/franck225-coder/blob/main/introGif.gif" />
 </p>
 
 <h3 align="center">
