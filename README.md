@@ -7,7 +7,7 @@
 </h3>
 
 <h2 align="center">
-I'm an AI engineer, Data scientist and Software developer !
+I'm an AI Engineer, Data Scientist and Software Developer !
 </h2> 
 
 I love the entire process of empowering machines with human reasoning capabilities as well as its application in order to solve specific problems. Taking into account the rapid evolution of data, building and deploying these models contribute in extracting valuable insights from data. I am also an open-source enthusiast, I have learned a lot from the open-source community, through collaboration and knowledge sharing.
