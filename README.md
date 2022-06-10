@@ -16,6 +16,7 @@ I love the entire process of empowering machines with human reasoning capabiliti
 <hr>
 
 ## 🔭 I'm currently working on
+- Building a portfolio and documenting my projects
 - A mobile application payement system
 - A group project with other developpers
 - An AI & Data science tutorial project
