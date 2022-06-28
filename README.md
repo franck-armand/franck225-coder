@@ -77,10 +77,12 @@ I love the entire process of empowering machines with human reasoning capabiliti
   </a>
   </div>
   <br>
+  <!--
   <div align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franck225-coder&theme=react&border=61dafb&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
  </div>
+ -->
 </p>
  
 <hr>
